@@ -1,0 +1,12 @@
+{
+    "description": "Show tiny chrome tab preview by demand.",
+    "name": "Float chrome tab preview",
+    "shell-version": [
+        "3.16",
+        "3.18",
+        "3.20"
+    ],
+    "url": "https://github.com/srihari93/float-chrometab-for-gnome",
+    "uuid": "float-chrometab-for-gnome@srihari93",
+    "version": 0
+}

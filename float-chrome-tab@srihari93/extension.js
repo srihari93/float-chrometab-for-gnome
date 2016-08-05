@@ -92,6 +92,9 @@ Preview.prototype = {
                 if (wins[j].get_title().search("YouTube") > -1 ) {
                     mpv = wins[j]
                     break;
+                }else if (wins[j].get_title().search("South Park") > -1 ) {
+                    mpv = wins[j]
+                    break;
                 }
             }
         }
